@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "title": "Product 1",
+    "link": "product-1",
+    "prices": {
+      "min": 100,
+      "max": 500
+    }
+  },
+  {
+    "id": 1,
+    "title": "Product 2",
+    "link": "product-2",
+    "prices": {
+      "min": 120,
+      "max": 540
+    }
+  },
+  {
+    "id": 2,
+    "title": "Product 3",
+    "link": "product-3",
+    "prices": {
+      "min": 400,
+      "max": 700
+    }
+  },
+  {
+    "id": 3,
+    "title": "Product 4",
+    "link": "product-4",
+    "prices": {
+      "min": 440,
+      "max": 550
+    }
+  }
+]
